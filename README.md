@@ -48,7 +48,7 @@ Neste projeto, pratiquei os seguintes conceitos fundamentais de HTML:
 
 Você pode visualizar este projeto publicado no GitHub Pages:
 
-➡️ [Clique aqui para acessar](https://luis-fellipe.github.io/Dio.me-Desafio-2/)
+➡️ [Clique aqui para acessar](https://luis-fellipe.github.io/clinica-medica-viver-bem/)
 
 📌 **Nota:** Este projeto foi feito com foco em HTML. O CSS é fixo e não há JavaScript.
 
